@@ -2167,14 +2167,14 @@ input, select, textarea {
 			}
 
 		.image.avatar {
-			border-radius: 100%;
+			border-radius: 0%;
 			overflow: hidden;
 		}
 
 			.image.avatar img {
 				border-radius: 100%;
 				display: block;
-				width: 100%;
+				width: 50%;
 			}
 
 		.image.main {
@@ -2716,7 +2716,7 @@ input, select, textarea {
 
 			#header > header .avatar {
 				display: block;
-				margin: 0 auto 2.25em auto;
+				margin: 0 auto 1.25em 4em;
 				width: 16em;
 			}
 
