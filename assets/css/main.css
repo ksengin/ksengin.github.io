@@ -2675,7 +2675,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #58909b81; /* #58909b81; */
+		background: #22484d81; /* #58909b81; */
 		color: #d3dbd9;
 		height: 100%;
 		overflow-y: auto;
@@ -2716,8 +2716,8 @@ input, select, textarea {
 
 			#header > header .avatar {
 				display: block;
-				margin: 0 auto 1.25em 4em;
-				width: 16em;
+				margin: 0 auto 1.5em 2em;
+				width: 24em;
 			}
 
 			#header > header h1 {
